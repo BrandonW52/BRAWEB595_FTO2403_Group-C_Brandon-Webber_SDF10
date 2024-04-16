@@ -4,7 +4,13 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 1. **Understanding and Application**: Reflecting on the key concepts, can you explain in your own words what an API is and its significance in software development? Provide an example of how you have used or encountered an API in a project or a practical scenario.
 
-[Your answer goes here]
+**A**pplication **P**rogramming **I**nterface, allows components and/or other programs and systems to communicate with one another,
+
+* toUpperCase() is an example of an API
+* Spotify displaying on your Discord activity is an API
+* Transferring funds from bank to bank is an API
+
+Any time anything happens or is displayed 9/10 an API is involved.
 
 2. **Conceptual Distinctions**: How would you differentiate between an interface and an API? 
 
