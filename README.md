@@ -53,4 +53,4 @@ Favorite API:
 * **Confident** in basic understanding and usage
 * **improvement** design and usage
 
-![ohio meme](https:/BrandonW52/github.com//BRAWEB595_FTO2403_Group-C_Brandon-Webber_SDF10/blob/main/Untitled_Export-rPm8KCIgDZ.jpeg?raw=true
+![ohio meme](./Untitled_Export-rPm8KCIgDZ.jpeg)
